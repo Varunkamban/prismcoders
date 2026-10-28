@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    { "source": "/sitemap", "destination": "/" },
+    { "source": "/about", "destination": "/" },
+    { "source": "/contact", "destination": "/" },
+    { "source": "/website-design-development", "destination": "/" },
+    { "source": "/custom-web-applications", "destination": "/" },
+    { "source": "/mobile-app-development", "destination": "/" },
+    { "source": "/e-commerce-solutions", "destination": "/" },
+    { "source": "/artificial-intelligence", "destination": "/" },
+    { "source": "/cloud-devops", "destination": "/" },
+    { "source": "/crm-solutions", "destination": "/" },
+    { "source": "/erp-solutions", "destination": "/" },
+    { "source": "/digital-marketing", "destination": "/" },
+    { "source": "/project-management", "destination": "/" },
+    { "source": "/gst-billing-accounting", "destination": "/" },
+    { "source": "/hospital-management-system", "destination": "/" },
+    { "source": "/lawyer-management-system", "destination": "/" }
+  ]
+}

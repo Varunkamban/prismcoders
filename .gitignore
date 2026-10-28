@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.playwright-mcp/
+.env*
+!.env.example
+!.env.*.example
+*.local
+*.tsbuildinfo
